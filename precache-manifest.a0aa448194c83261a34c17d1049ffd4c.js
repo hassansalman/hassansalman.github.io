@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "636a57d77d5433a7d576ca043a492682",
+    "revision": "0f1abbc0b938765eac85b8378524fc3e",
     "url": "/index.html"
   },
   {
-    "revision": "a0611325f3a08c64f59d",
+    "revision": "877540490f9a1c718c3c",
     "url": "/static/css/3.6a352120.chunk.css"
   },
   {
-    "revision": "5bc1c55883d24c179106",
+    "revision": "cb5274cb5d5b08cc2caf",
     "url": "/static/css/4.6e14a8dd.chunk.css"
   },
   {
-    "revision": "c1873c5ad8f7e76946e9",
+    "revision": "be5f5985db78ae0d10a8",
     "url": "/static/css/main.6ea9809a.chunk.css"
   },
   {
-    "revision": "665c6ab53bab9b28fc12",
-    "url": "/static/js/2.9dbf2d77.chunk.js"
+    "revision": "27080cfd9359fd0ad246",
+    "url": "/static/js/2.df0940ca.chunk.js"
   },
   {
     "revision": "d0d8190170b812713050bd2e6e947e19",
-    "url": "/static/js/2.9dbf2d77.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.df0940ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a0611325f3a08c64f59d",
-    "url": "/static/js/3.4f6cf3f6.chunk.js"
+    "revision": "877540490f9a1c718c3c",
+    "url": "/static/js/3.02837b7f.chunk.js"
   },
   {
-    "revision": "5bc1c55883d24c179106",
-    "url": "/static/js/4.e60afb8f.chunk.js"
+    "revision": "cb5274cb5d5b08cc2caf",
+    "url": "/static/js/4.fe086182.chunk.js"
   },
   {
-    "revision": "c1873c5ad8f7e76946e9",
-    "url": "/static/js/main.271f845c.chunk.js"
+    "revision": "be5f5985db78ae0d10a8",
+    "url": "/static/js/main.d0736468.chunk.js"
   },
   {
-    "revision": "1fbcdda570bcf5d7d102",
-    "url": "/static/js/runtime-main.5814b27e.js"
+    "revision": "89bc02fc660d58729dd3",
+    "url": "/static/js/runtime-main.60d7505f.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -72,8 +72,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
+    "revision": "eb1ab05e95dfd1b6828fefce4b2b93c9",
+    "url": "/static/media/meteor-logo-wht.eb1ab05e.jpg"
+  },
+  {
     "revision": "829ad0a1deef4d7295adfecdf12df2be",
     "url": "/static/media/nextuLogo.829ad0a1.webp"
+  },
+  {
+    "revision": "8d510e53abe7bae1a4f1408b6df237df",
+    "url": "/static/media/promote-avatar.8d510e53.png"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
@@ -94,9 +102,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/static/media/talksCardBack.13780cdd.svg"
-  },
-  {
-    "revision": "53015aad4cf940e4d341c556ac2d8014",
-    "url": "/static/media/vodafoneLogo.53015aad.png"
   }
 ]);
