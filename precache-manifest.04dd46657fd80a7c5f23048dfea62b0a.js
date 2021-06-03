@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6448fe4ae59153e88d7d05a016f60001",
+    "revision": "d502a7554ef89e57677babdb9a020a6a",
     "url": "/index.html"
   },
   {
-    "revision": "f1ef7d40f4494e181bc1",
+    "revision": "264ee870dd6ba05ab9de",
     "url": "/static/css/3.6a352120.chunk.css"
   },
   {
-    "revision": "cb5274cb5d5b08cc2caf",
+    "revision": "5bc1c55883d24c179106",
     "url": "/static/css/4.6e14a8dd.chunk.css"
   },
   {
-    "revision": "7692708a68f7e2bbe1ee",
+    "revision": "a3e28fd4fc14412a58cd",
     "url": "/static/css/main.295eaf54.chunk.css"
   },
   {
-    "revision": "b7b93800804fc5be0ea3",
-    "url": "/static/js/2.149e025a.chunk.js"
+    "revision": "bc094107d1a47d3e8175",
+    "url": "/static/js/2.be0f2859.chunk.js"
   },
   {
     "revision": "d0d8190170b812713050bd2e6e947e19",
-    "url": "/static/js/2.149e025a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.be0f2859.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1ef7d40f4494e181bc1",
-    "url": "/static/js/3.d2b778d0.chunk.js"
+    "revision": "264ee870dd6ba05ab9de",
+    "url": "/static/js/3.c8e1b195.chunk.js"
   },
   {
-    "revision": "cb5274cb5d5b08cc2caf",
-    "url": "/static/js/4.fe086182.chunk.js"
+    "revision": "5bc1c55883d24c179106",
+    "url": "/static/js/4.e60afb8f.chunk.js"
   },
   {
-    "revision": "7692708a68f7e2bbe1ee",
-    "url": "/static/js/main.4dbe9608.chunk.js"
+    "revision": "a3e28fd4fc14412a58cd",
+    "url": "/static/js/main.c96af4e2.chunk.js"
   },
   {
-    "revision": "4f2499733cf6567383e0",
-    "url": "/static/js/runtime-main.84677653.js"
+    "revision": "4738d372aca543ef93dc",
+    "url": "/static/js/runtime-main.4d9c5c17.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8d510e53abe7bae1a4f1408b6df237df",
     "url": "/static/media/promote-avatar.8d510e53.png"
+  },
+  {
+    "revision": "d567a20c05b9241582bd840320542e97",
+    "url": "/static/media/promote-dash-example-min.d567a20c.jpg"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
